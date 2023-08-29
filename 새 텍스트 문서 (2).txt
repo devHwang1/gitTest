@@ -1,0 +1,7 @@
+Working directory
+
+Staging Area
+
+Local Repository
+
+Remote Repository
